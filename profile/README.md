@@ -9,7 +9,6 @@ You can join my discord server: http://discord.mermaids.dev/
 #### Hytale Mods
 - Mermaids: https://github.com/sirenhytale/Mermaids
 - Marriage: https://github.com/sirenhytale/Marriage
-- OrbisOrigins X Mermaids: https://github.com/sirenhytale/OrbisOrigins-X-Mermaids
 - Siren's Commands: https://github.com/sirenhytale/SirensCommands
 - Chinese Festivals: https://github.com/sirenhytale/ChineseFestivals
 - Hytale Insights: https://github.com/HytaleInsight/HytaleMod
