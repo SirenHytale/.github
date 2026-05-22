@@ -31,3 +31,4 @@ You can use creator code `SIREN` at checkout.
 - https://youtube.mermaids.dev/
 - https://discord.mermaids.dev/
 - https://github.mermaids.dev/
+- https://translate.mermaids.dev/
